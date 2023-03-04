@@ -1,0 +1,12 @@
+//Tira a necessidade de ficar alterando o tamanho do array
+    val ages: IntArray = intArrayOf(25, 19, 33, 20, 55)
+
+    var maiorIdade = 0
+    for (age in ages) {
+        if (age > maiorIdade) {
+            maiorIdade = age
+        }
+    }
+    println(maiorIdade)
+
+}
