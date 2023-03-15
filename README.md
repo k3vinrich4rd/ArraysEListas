@@ -4,4 +4,4 @@ Projeto desenvolvido com base num curso da instituição Alura
 
 
                 Curso Citado:
-               *Kotlin Collections: Set e Map
+                * Kotlin: desenvolva com coleções, arrays e listas
